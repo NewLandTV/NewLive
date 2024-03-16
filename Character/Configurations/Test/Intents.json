@@ -1,0 +1,33 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi there",
+                "How are you",
+                "Is anyone there?",
+                "Hey",
+                "Hola",
+                "Hello",
+                "Good day",
+                "Namaste",
+                "yo",
+                "안녕",
+                "좋은 아침",
+                "안녕하세요",
+                "반가워요",
+                "잘지내니"
+            ],
+            "responses": [
+                "Hello",
+                "Good to see you again",
+                "Hi there, how can I help?",
+                "안녕하세요!",
+                "저도 만나서 반가워요"
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
